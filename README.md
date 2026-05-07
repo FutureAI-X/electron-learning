@@ -1,2 +1,1 @@
-# electron-learning
-Electron 学习代码
+# Electron Learning
