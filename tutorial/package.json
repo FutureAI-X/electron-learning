@@ -5,9 +5,12 @@
   "license": "ISC",
   "author": "FutureAI实验室",
   "type": "commonjs",
-  "main": "main.js",
+  "main": "browser/main.js",
   "scripts": {
     "start": "electron .",
+    "start-hello": "electron hello/main.js",
+    "start-browser": "electron browser/main.js",
+    "start-preload": "electron preload/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
