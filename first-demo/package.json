@@ -1,0 +1,16 @@
+{
+  "name": "first-demo",
+  "version": "1.0.0",
+  "description": "Hello, Electron",
+  "license": "ISC",
+  "author": "FutureAI实验室",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^42.0.0"
+  }
+}
